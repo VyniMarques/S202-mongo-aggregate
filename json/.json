@@ -1,0 +1,34 @@
+[
+    {
+        "cliente_id": 1,
+        "desconto": 0.05
+    },
+    {
+        "cliente_id": 2,
+        "desconto": 0.1
+    },
+    {
+        "cliente_id": 2,
+        "desconto": 0.1
+    },
+    {
+        "cliente_id": 3,
+        "desconto": 0.05
+    },
+    {
+        "cliente_id": 3,
+        "desconto": 0.05
+    },
+    {
+        "cliente_id": 3,
+        "desconto": 0.05
+    },
+    {
+        "cliente_id": 3,
+        "desconto": 0.05
+    },
+    {
+        "cliente_id": 2,
+        "desconto": 0.05
+    }
+]
